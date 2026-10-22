@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local / restricted data
+data/
+*.zip
+*.dat
+*.hea
+*.mat
+*.edf
+
+# OS/editor
+.DS_Store
+Thumbs.db
